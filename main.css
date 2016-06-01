@@ -1,0 +1,42 @@
+
+
+
+.pos-btn {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 100px;
+}
+
+.text-center{
+	text-align: center;
+	position: relative;
+}
+
+h2 {
+	color: rgb(33, 70, 103);
+}
+
+h2, h4 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+h5 {
+	font-size: 12px;
+}
+
+
+.buttons{
+	text-align:center;
+}
+
+.input-group {
+	width:40%;
+	position: relative;
+	margin: auto;
+}
+
+#startOverButton {
+	margin: auto;
+}
